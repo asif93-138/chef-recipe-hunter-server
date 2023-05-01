@@ -1,0 +1,46 @@
+[  
+    {    
+        "id": 1,    
+        "chef_picture": "https://example.com/martin_yan.jpg",    
+        "chef_name": "Martin Yan",    
+        "years_of_experience": 50,    
+        "number_of_recipes": 200,    
+        "likes": 50000  },  
+    {    
+        "id": 2,    
+        "chef_picture": "https://example.com/ming_tsai.jpg",    
+        "chef_name": "Ming Tsai",    
+        "years_of_experience": 30,    
+        "number_of_recipes": 150,    
+        "likes": 35000  },  
+    {    
+        "id": 3,    
+        "chef_picture": "https://example.com/ken_hom.jpg",    
+        "chef_name": "Ken Hom",    
+        "years_of_experience": 40,    
+        "number_of_recipes": 180,    
+        "likes": 40000  },  
+    {    
+        "id": 4,    
+        "chef_picture": "https://example.com/ching_he_huang.jpg",    
+        "chef_name": "Ching He Huang",    
+        "years_of_experience": 20,    
+        "number_of_recipes": 120,    
+        "likes": 25000  },  
+        
+    {    
+        "id": 5,    
+        "chef_picture": "https://example.com/susur_lee.jpg",    
+        "chef_name": "Susur Lee",    
+        "years_of_experience": 35,    
+        "number_of_recipes": 160,    
+        "likes": 45000  },  
+    {    
+        "id": 6,    
+        "chef_picture": "https://example.com/jereme_leung.jpg",    
+        "chef_name": "Jereme Leung",    
+        "years_of_experience": 25,    
+        "number_of_recipes": 100,    
+        "likes": 30000  
+    }
+]
